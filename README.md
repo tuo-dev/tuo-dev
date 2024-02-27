@@ -1,4 +1,4 @@
-### Hi, I'm front-end developer 👋
+### front-end developer 👋
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
